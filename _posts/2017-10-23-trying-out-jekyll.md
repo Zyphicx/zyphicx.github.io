@@ -6,7 +6,7 @@ categories: [learning, test, try]
 ---
 
 ### Bits and bytes
-If I try to write an actual article, or a blog post or whatever it's called, what will it look like? Reading _Lorem Ipsum_ over and over again is one thing, but reading an actual post is completely different. Thus, my question is: what will this look like?
+If I try to write an actual article, or a blog post or whatever it's called, what will it look like? Reading _Lorem Ipsum_ over and over again is one thing, but **reading** an actual post is completely different. Thus, my question is: what will this look like?
 
 <br>
 
